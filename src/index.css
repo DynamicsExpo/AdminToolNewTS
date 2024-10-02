@@ -78,7 +78,7 @@ body {
 }
 
 .app{
-  background: #c8f0fd;
+  background: #fff;
   max-height: max-content;
   font-size: 12px;
 }
@@ -137,3 +137,7 @@ button{
   padding-left: 20px;
 }
 
+.sideBarBackground
+{
+  background-color: #087bc7;
+}

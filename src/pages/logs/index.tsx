@@ -3,12 +3,10 @@ import Header from "../../components/header";
 import DownloadOutlinedIcon from "@mui/icons-material/DownloadOutlined";
 import dayjs, { Dayjs } from "dayjs";
 import {
-  DateTimePickerComponent,
-  InputField,
+  DateTimePickerComponent
 } from "../../components/DateTimePickerComponent";
 import React, { useState } from "react";
 import SearchByFieldName from "../../components/search/byfieldname";
-import SearchByCriteria from "../../components/search/bycriteria";
 import Table from "../table";
 
 interface TabPanelProps {
